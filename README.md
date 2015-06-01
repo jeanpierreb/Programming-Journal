@@ -7,4 +7,6 @@ A record of the stuff I plan to or have read and studied.
 * 5/28/2015   The Changelog Podcast Bedrock/Roots
 * 5/29/2015   The Changelog Podcast Front End Developer Interview Questions
 * 5/30/2015   The Changelog Podcast MEANjs
+* 5/30/2015   CS50 Week 0 Wednesday lecture (video)
+* 5/30/2015   CS50 Week 0 Friday lecture (video)
 * 6/01/2015   The Changelog Podcast Dart
