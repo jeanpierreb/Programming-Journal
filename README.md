@@ -16,3 +16,4 @@ A record of the stuff I plan to or have read and studied.
 * 6/01/2015   CS50 Week 2/Wed lecture (video)
 * 6/02/2015   First MEANjs app from docs
 * 6/03/2015   The Changelog Podcast #142 Laravel PHP
+* 6/03/2015   The Changelog Podcast #145 DHH Rails
