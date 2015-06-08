@@ -18,3 +18,4 @@ A record of the stuff I plan to or have read and studied.
 * 6/03/2015   The Changelog Podcast #142 Laravel PHP
 * 6/03/2015   The Changelog Podcast #145 DHH Rails
 * 6/07/2015   Understanding JavaScript Course (Section 1)
+* 6/08/2015   Understanding JavaScript Course (Section 2)
