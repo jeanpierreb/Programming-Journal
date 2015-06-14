@@ -25,3 +25,6 @@ A record of the stuff I plan to or have read and studied.
 * 6/11/2015		Understanding JavaScript Course (Section 5)
 * 6/12/2015		Understanding JavaScript Course (Section 6)
 * 6/12/2015		Understanding JavaScript Course (Section 7)
+* 6/12/2015		JTDG Chapter 13
+* 6/12/2015		Understanding JavaScript Section 8-10
+* 6/13/2015		JTDG Chapter 15
