@@ -29,3 +29,4 @@ A record of the stuff I plan to or have read and studied.
 * 6/12/2015		JTDG Chapter 13
 * 6/13/2015		JTDG Chapter 15
 * 6/14/2015		JTDG Chapter 16
+* 6/14/2015		JTDG Chapter 19
