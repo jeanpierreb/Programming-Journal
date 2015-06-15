@@ -30,3 +30,8 @@ A record of the stuff I plan to or have read and studied.
 * 6/13/2015		JTDG Chapter 15
 * 6/14/2015		JTDG Chapter 16
 * 6/14/2015		JTDG Chapter 19
+* 6/15/2015		Understanding JavaScript Course (Section 9)
+* 6/15/2015		Understanding JavaScript Course (Section 10)
+* 6/15/2015		Understanding JavaScript Course (Section 11)
+* 6/15/2015		Understanding JavaScript Course (Section 12)
+* 6/15/2015		Understanding JavaScript Course (Finished!)
