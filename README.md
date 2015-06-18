@@ -35,3 +35,4 @@ A record of the stuff I plan to or have read and studied.
 * 6/15/2015		Understanding JavaScript Course (Section 11)
 * 6/15/2015		Understanding JavaScript Course (Section 12)
 * 6/15/2015		Understanding JavaScript Course (Finished!)
+* 6/18/2015   TutsPlus Functional Programming in JS
